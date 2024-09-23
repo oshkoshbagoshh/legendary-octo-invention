@@ -23,7 +23,8 @@
             <h2 class="subtitle">
                 Innovative Solutions for Connected TV Advertising
             </h2>
-            <a href="{{ route('contact.show') }}" class="button-is-link-is-large">Contact Us</a>
+{{--            <a href="{{ route('contact.show') }}" class="button-is-link-is-large">Contact Us</a>--}}
+            <a href="#" class="is-link-is-large">Contact us </a>
         </div>
     </div>
 </section>
